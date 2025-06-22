@@ -46,7 +46,9 @@
 - See live results and latency distributions
 - Download result CSVs for logs or reports
 
-![Screenshot of Streamlit](latency_plot_concurrent.png)
+![Screenshot of Streamlit](dashboard.png)
+<img src="latency_plot_concurrent.png" width="550">
+
 
 ---
 
