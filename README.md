@@ -63,7 +63,7 @@ This project demonstrates awareness of **latency as a first-class system concern
 ---
 
 ## 📁 File Structure
-
+```
 latency-profiler/
 ├── app.py                        # Flask mock server
 ├── profiler.py                   # Serial benchmark
@@ -76,7 +76,7 @@ latency-profiler/
 ├── latency_plot_concurrent.png   # Plot (concurrent)
 ├── requirements.txt              # Dependencies
 └── README.md                     # Docs
-
+```
 ---
 
 ## 📥 Getting Started
